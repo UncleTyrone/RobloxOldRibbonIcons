@@ -12,7 +12,7 @@
                 "ItemId": "Paste"
             }
         },
-		{
+        {
             "Id": "95803b3a-0a54-496b-9606-4ec731234796",
             "Type": "IconButton",
             "Action": {
@@ -23,7 +23,7 @@
             },
             "Size": "Medium"
         },
-		{
+        {
             "Id": "997f12d0-ebcd-4039-9313-18cbe9aa7e27",
             "Type": "IconButton",
             "Action": {
