@@ -12,48 +12,38 @@
                 "ItemId": "Paste"
             }
         },
-        {
-            "Children": [
-                {
-                    "Id": "95803b3a-0a54-496b-9606-4ec731234796",
-                    "Type": "IconButton",
-                    "Action": {
-                        "PluginId": "Common",
-                        "DataModel": "Standalone",
-                        "ItemId": "Cut",
-                        "Category": "Actions"
-                    },
-                    "Size": "Medium"
-                },
-                {
-                    "Id": "997f12d0-ebcd-4039-9313-18cbe9aa7e27",
-                    "Type": "IconButton",
-                    "Action": {
-                        "PluginId": "Common",
-                        "DataModel": "Standalone",
-                        "Category": "Actions",
-                        "ItemId": "Copy"
-                    },
-                    "Size": "Medium"
-                }
-            ],
-            "Type": "Column"
+		{
+            "Id": "95803b3a-0a54-496b-9606-4ec731234796",
+            "Type": "IconButton",
+            "Action": {
+                "PluginId": "Common",
+                "DataModel": "Standalone",
+                "ItemId": "Cut",
+                "Category": "Actions"
+            },
+            "Size": "Medium"
+        },
+		{
+            "Id": "997f12d0-ebcd-4039-9313-18cbe9aa7e27",
+            "Type": "IconButton",
+            "Action": {
+                "PluginId": "Common",
+                "DataModel": "Standalone",
+                "Category": "Actions",
+                "ItemId": "Copy"
+            },
+            "Size": "Medium"
         },
         {
-            "Children": [
-                {
-                    "Id": "07ec7c7b-e6b1-4970-88ac-0e88986afdf8",
-                    "Type": "IconButton",
-                    "Action": {
-                        "PluginId": "Common",
-                        "DataModel": "Standalone",
-                        "ItemId": "Duplicate",
-                        "Category": "Actions"
-                    },
-                    "Size": "Medium"
-                }
-            ],
-            "Type": "Column"
+            "Id": "07ec7c7b-e6b1-4970-88ac-0e88986afdf8",
+            "Type": "IconButton",
+            "Action": {
+                "PluginId": "Common",
+                "DataModel": "Standalone",
+                "ItemId": "Duplicate",
+                "Category": "Actions"
+            },
+            "Size": "Medium"
         },
         {
             "Size": "Large",

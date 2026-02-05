@@ -37,13 +37,6 @@
         },
         {
             "Identifier": {
-                "Type": "BuiltIn",
-                "Filename": "PluginsTab"
-            },
-            "Visible": false
-        },
-        {
-            "Identifier": {
                 "Type": "Custom",
                 "Filename": "Home"
             },
@@ -74,6 +67,13 @@
             "Identifier": {
                 "Type": "Custom",
                 "Filename": "View"
+            },
+            "Visible": true
+        },
+        {
+            "Identifier": {
+                "Type": "BuiltIn",
+                "Filename": "PluginsTab"
             },
             "Visible": true
         }
