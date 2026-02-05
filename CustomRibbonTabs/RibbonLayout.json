@@ -1,0 +1,81 @@
+{
+    "TabLayout": [
+        {
+            "Identifier": {
+                "Type": "BuiltIn",
+                "Filename": "HomeTab"
+            },
+            "Visible": false
+        },
+        {
+            "Identifier": {
+                "Type": "BuiltIn",
+                "Filename": "AvatarTab"
+            },
+            "Visible": false
+        },
+        {
+            "Identifier": {
+                "Type": "BuiltIn",
+                "Filename": "UITab"
+            },
+            "Visible": false
+        },
+        {
+            "Identifier": {
+                "Type": "BuiltIn",
+                "Filename": "ScriptTab"
+            },
+            "Visible": false
+        },
+        {
+            "Identifier": {
+                "Type": "BuiltIn",
+                "Filename": "ModelTab"
+            },
+            "Visible": false
+        },
+        {
+            "Identifier": {
+                "Type": "BuiltIn",
+                "Filename": "PluginsTab"
+            },
+            "Visible": false
+        },
+        {
+            "Identifier": {
+                "Type": "Custom",
+                "Filename": "Home"
+            },
+            "Visible": true
+        },
+        {
+            "Identifier": {
+                "Type": "Custom",
+                "Filename": "Model"
+            },
+            "Visible": true
+        },
+        {
+            "Identifier": {
+                "Type": "Custom",
+                "Filename": "Script"
+            },
+            "Visible": true
+        },
+        {
+            "Identifier": {
+                "Type": "Custom",
+                "Filename": "Test"
+            },
+            "Visible": true
+        },
+        {
+            "Identifier": {
+                "Type": "Custom",
+                "Filename": "View"
+            },
+            "Visible": true
+        }
+    ]
+}
