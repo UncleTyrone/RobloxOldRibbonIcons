@@ -1,16 +1,31 @@
-# RobloxOldRibbonIcons
-A configuration of the Roblox Studio new-gen UI topbar which matches the layout as previously seen in older versions of Roblox Studio.
+# Next Generation Ribbon Icons!
+A configuration of the new Roblox Studio UI topbar (AKA the ribbon bar) which matches the layout as previously seen in older versions of Roblox Studio. Includes every tool you'll need for full stack development and encompasses several different pages of the ribbon bar.
 
-Forked from the [original repository](https://github.com/TenebrisNoctua/RibbonTools/tree/main/OldRibbonTabs). This edit fixes some of the aligning issues with different resolutions of Roblox Studio and also includes a pre-defined formatting file which tells your Roblox Studio which tabs to disable and which ones to keep. The releases contain a package of .json files which should be installed into your local files accordingly.
+![Example](https://raw.githubusercontent.com/UncleTyrone/uncletyronepics/refs/heads/main/NextGenerationRibbons.gif)
 
-## Installation
-To Install, go to:
+## Includes the following tabs:
+* Home
+* Model
+* Avatar
+* Script
+* Test
+* View
+* Plugins
+* Extra
+
+## Credit:
+Forked from the [OldRibbonTabs repository.](https://github.com/TenebrisNoctua/RibbonTools/tree/main/OldRibbonTabs)
+
+## Installation:
+To Install, go to the following directory:
 
 ```
 Windows: %LOCALAPPDATA%\Roblox\<userID>\CustomRibbonTabs
 MacOS: ~/Documents/Roblox/<userID>/CustomRibbonTabs
 ```
 
-Drop all of the .json files to the CustomRibbonTabs folder. Then, reload your Roblox Studio and they should all appear. After that, you can reorder or disable any of them if you wish.
+Download the zip archive from the latest release and then drag and drop all of the .json files to the CustomRibbonTabs directory.
+
+Then, reload your Roblox Studio and they should all appear normally. After that, you can reorder or disable any of them if you wish using Roblox Studio.
 
 Enjoy!

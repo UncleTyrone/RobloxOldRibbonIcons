@@ -60,6 +60,16 @@
             "Size": "Large"
         },
         {
+            "Id": "c2548e36-4937-4642-b8ff-eec20908403a",
+            "Type": "IconButton",
+            "Action": {
+                "PluginId": "CommandBar",
+                "DataModel": "Standalone",
+                "Category": "Actions",
+                "ItemId": "Toggle"
+            }
+        },
+        {
             "Id": "d94eea13-269a-480e-b320-3f53471d26ff",
             "Type": "IconButton",
             "Action": {
@@ -253,26 +263,26 @@
             "Children": [
                 {
                     "Type": "Button",
+                    "Id": "f6ea6301-cbfc-4850-a440-8ec79993818c",
+                    "TextOnly": true,
                     "Action": {
                         "PluginId": "Statistics",
                         "DataModel": "Standalone",
                         "ItemId": "General",
                         "Category": "Actions"
                     },
-                    "TextOnly": true,
-                    "Id": "f6ea6301-cbfc-4850-a440-8ec79993818c",
                     "Size": "Small"
                 },
                 {
                     "Type": "Button",
+                    "Id": "384953e1-8904-4192-ae1f-fb282a4b7e5b",
+                    "TextOnly": true,
                     "Action": {
                         "PluginId": "Statistics",
                         "DataModel": "Standalone",
                         "Category": "Actions",
                         "ItemId": "Render"
                     },
-                    "TextOnly": true,
-                    "Id": "384953e1-8904-4192-ae1f-fb282a4b7e5b",
                     "Size": "Small"
                 }
             ],
@@ -282,26 +292,26 @@
             "Children": [
                 {
                     "Type": "Button",
+                    "Id": "bb99e0d7-4fde-42ad-81e5-4e9cc37112e9",
+                    "TextOnly": true,
                     "Action": {
                         "PluginId": "Statistics",
                         "DataModel": "Standalone",
                         "ItemId": "Physics",
                         "Category": "Actions"
                     },
-                    "TextOnly": true,
-                    "Id": "bb99e0d7-4fde-42ad-81e5-4e9cc37112e9",
                     "Size": "Small"
                 },
                 {
                     "Type": "Button",
+                    "Id": "c103b153-d70c-4bbe-98a5-df0bad63dde7",
+                    "TextOnly": true,
                     "Action": {
                         "PluginId": "Statistics",
                         "DataModel": "Standalone",
                         "Category": "Actions",
                         "ItemId": "Network"
                     },
-                    "TextOnly": true,
-                    "Id": "c103b153-d70c-4bbe-98a5-df0bad63dde7",
                     "Size": "Small"
                 }
             ],

@@ -10,6 +10,13 @@
         {
             "Identifier": {
                 "Type": "BuiltIn",
+                "Filename": "ModelTab"
+            },
+            "Visible": false
+        },
+        {
+            "Identifier": {
+                "Type": "BuiltIn",
                 "Filename": "AvatarTab"
             },
             "Visible": false
@@ -30,13 +37,6 @@
         },
         {
             "Identifier": {
-                "Type": "BuiltIn",
-                "Filename": "ModelTab"
-            },
-            "Visible": false
-        },
-        {
-            "Identifier": {
                 "Type": "Custom",
                 "Filename": "Home"
             },
@@ -46,6 +46,13 @@
             "Identifier": {
                 "Type": "Custom",
                 "Filename": "Model"
+            },
+            "Visible": true
+        },
+        {
+            "Identifier": {
+                "Type": "Custom",
+                "Filename": "Avatar"
             },
             "Visible": true
         },
@@ -74,6 +81,13 @@
             "Identifier": {
                 "Type": "BuiltIn",
                 "Filename": "PluginsTab"
+            },
+            "Visible": true
+        },
+        {
+            "Identifier": {
+                "Type": "Custom",
+                "Filename": "Extra"
             },
             "Visible": true
         }

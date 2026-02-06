@@ -8,8 +8,8 @@
             "Action": {
                 "PluginId": "Common",
                 "DataModel": "Standalone",
-                "Category": "Actions",
-                "ItemId": "Paste"
+                "ItemId": "Paste",
+                "Category": "Actions"
             }
         },
         {
@@ -18,8 +18,8 @@
             "Action": {
                 "PluginId": "Common",
                 "DataModel": "Standalone",
-                "ItemId": "Cut",
-                "Category": "Actions"
+                "Category": "Actions",
+                "ItemId": "Cut"
             },
             "Size": "Medium"
         },
@@ -29,8 +29,8 @@
             "Action": {
                 "PluginId": "Common",
                 "DataModel": "Standalone",
-                "Category": "Actions",
-                "ItemId": "Copy"
+                "ItemId": "Copy",
+                "Category": "Actions"
             },
             "Size": "Medium"
         },
@@ -40,14 +40,14 @@
             "Action": {
                 "PluginId": "Common",
                 "DataModel": "Standalone",
-                "ItemId": "Duplicate",
-                "Category": "Actions"
+                "Category": "Actions",
+                "ItemId": "Duplicate"
             },
             "Size": "Medium"
         },
         {
-            "Size": "Large",
-            "Type": "Separator"
+            "Type": "Separator",
+            "Size": "Large"
         },
         {
             "Id": "338e8be5-92e1-440d-8f58-821fb2cabc0d",
@@ -55,8 +55,8 @@
             "Action": {
                 "PluginId": "ScriptTools",
                 "DataModel": "Standalone",
-                "Category": "Actions",
-                "ItemId": "Back"
+                "ItemId": "Back",
+                "Category": "Actions"
             }
         },
         {
@@ -65,35 +65,35 @@
             "Action": {
                 "PluginId": "ScriptTools",
                 "DataModel": "Standalone",
-                "ItemId": "Forward",
-                "Category": "Actions"
+                "Category": "Actions",
+                "ItemId": "Forward"
             }
         },
         {
-            "Type": "Separator",
-            "Size": "Large"
+            "Size": "Large",
+            "Type": "Separator"
         },
         {
             "Id": "Find",
-            "Type": "SplitButton",
-            "Setting": {
-                "PluginId": "ScriptTools",
-                "DataModel": "Standalone",
-                "Category": "Settings",
-                "ItemId": "Find"
-            },
-            "ShowSettingOptions": true
-        },
-        {
-            "Id": "Format",
             "Type": "SplitButton",
             "ShowSettingOptions": true,
             "Setting": {
                 "PluginId": "ScriptTools",
                 "DataModel": "Standalone",
-                "ItemId": "FormatScript",
+                "ItemId": "Find",
                 "Category": "Settings"
             }
+        },
+        {
+            "Id": "Format",
+            "Type": "SplitButton",
+            "Setting": {
+                "PluginId": "ScriptTools",
+                "DataModel": "Standalone",
+                "Category": "Settings",
+                "ItemId": "FormatScript"
+            },
+            "ShowSettingOptions": true
         },
         {
             "Id": "Line",
@@ -101,13 +101,13 @@
             "Action": {
                 "PluginId": "ScriptTools",
                 "DataModel": "Standalone",
-                "ItemId": "GoToLine",
-                "Category": "Actions"
+                "Category": "Actions",
+                "ItemId": "GoToLine"
             }
         },
         {
-            "Type": "Separator",
-            "Size": "Large"
+            "Size": "Large",
+            "Type": "Separator"
         },
         {
             "Id": "da6550e9-5fdc-4cd1-a8af-1015f881b3e5",
@@ -115,8 +115,8 @@
             "Action": {
                 "PluginId": "RunTools",
                 "DataModel": "Standalone",
-                "ItemId": "LaunchTestMode",
-                "Category": "Actions"
+                "Category": "Actions",
+                "ItemId": "LaunchTestMode"
             }
         },
         {
@@ -125,8 +125,8 @@
             "Action": {
                 "PluginId": "RunTools",
                 "DataModel": "Standalone",
-                "Category": "Actions",
-                "ItemId": "ToggleDM"
+                "ItemId": "ToggleDM",
+                "Category": "Actions"
             }
         },
         {
@@ -135,8 +135,8 @@
             "Action": {
                 "PluginId": "RunTools",
                 "DataModel": "Standalone",
-                "ItemId": "Pause",
-                "Category": "Actions"
+                "Category": "Actions",
+                "ItemId": "Pause"
             }
         },
         {
@@ -145,8 +145,8 @@
             "Action": {
                 "PluginId": "RunTools",
                 "DataModel": "Standalone",
-                "Category": "Actions",
-                "ItemId": "Resume"
+                "ItemId": "Resume",
+                "Category": "Actions"
             }
         },
         {
@@ -155,13 +155,13 @@
             "Action": {
                 "PluginId": "RunTools",
                 "DataModel": "Standalone",
-                "ItemId": "Stop",
-                "Category": "Actions"
+                "Category": "Actions",
+                "ItemId": "Stop"
             }
         },
         {
-            "Type": "Separator",
-            "Size": "Large"
+            "Size": "Large",
+            "Type": "Separator"
         },
         {
             "Id": "9f1f4361-1d3f-42ed-9ad8-4fb6b9dcb6b7",
@@ -169,8 +169,8 @@
             "Action": {
                 "PluginId": "ScriptTools",
                 "DataModel": "Standalone",
-                "ItemId": "StepInto",
-                "Category": "Actions"
+                "Category": "Actions",
+                "ItemId": "StepInto"
             }
         },
         {
@@ -179,8 +179,8 @@
             "Action": {
                 "PluginId": "ScriptTools",
                 "DataModel": "Standalone",
-                "Category": "Actions",
-                "ItemId": "StepOver"
+                "ItemId": "StepOver",
+                "Category": "Actions"
             }
         },
         {
@@ -189,13 +189,13 @@
             "Action": {
                 "PluginId": "ScriptTools",
                 "DataModel": "Standalone",
-                "ItemId": "StepOut",
-                "Category": "Actions"
+                "Category": "Actions",
+                "ItemId": "StepOut"
             }
         },
         {
-            "Type": "Separator",
-            "Size": "Large"
+            "Size": "Large",
+            "Type": "Separator"
         },
         {
             "Children": [
@@ -206,8 +206,8 @@
                     "Action": {
                         "PluginId": "Breakpoints",
                         "DataModel": "Standalone",
-                        "Category": "Actions",
-                        "ItemId": "NeverBreakOnErrors"
+                        "ItemId": "NeverBreakOnErrors",
+                        "Category": "Actions"
                     },
                     "Size": "Small"
                 },
@@ -218,8 +218,8 @@
                     "Action": {
                         "PluginId": "Breakpoints",
                         "DataModel": "Standalone",
-                        "Category": "Actions",
-                        "ItemId": "BreakOnAllErrors"
+                        "ItemId": "BreakOnAllErrors",
+                        "Category": "Actions"
                     },
                     "Size": "Small"
                 }
@@ -235,8 +235,8 @@
                     "Action": {
                         "PluginId": "Breakpoints",
                         "DataModel": "Standalone",
-                        "Category": "Actions",
-                        "ItemId": "BreakOnUnhandledErrors"
+                        "ItemId": "BreakOnUnhandledErrors",
+                        "Category": "Actions"
                     },
                     "Size": "Small"
                 },
@@ -247,8 +247,8 @@
                     "Action": {
                         "PluginId": "ScriptTools",
                         "DataModel": "Standalone",
-                        "Category": "Actions",
-                        "ItemId": "ReloadScript"
+                        "ItemId": "ReloadScript",
+                        "Category": "Actions"
                     },
                     "Size": "Small"
                 }
@@ -256,8 +256,8 @@
             "Type": "Column"
         },
         {
-            "Type": "Separator",
-            "Size": "Large"
+            "Size": "Large",
+            "Type": "Separator"
         },
         {
             "Children": [
@@ -268,8 +268,8 @@
                     "Action": {
                         "PluginId": "ScriptTools",
                         "DataModel": "Standalone",
-                        "ItemId": "UnfoldDocument",
-                        "Category": "Actions"
+                        "Category": "Actions",
+                        "ItemId": "UnfoldDocument"
                     },
                     "Size": "Small"
                 },
@@ -280,8 +280,8 @@
                     "Action": {
                         "PluginId": "ScriptTools",
                         "DataModel": "Standalone",
-                        "Category": "Actions",
-                        "ItemId": "FoldDocument"
+                        "ItemId": "FoldDocument",
+                        "Category": "Actions"
                     },
                     "Size": "Small"
                 }
@@ -297,10 +297,58 @@
                     "Action": {
                         "PluginId": "ScriptTools",
                         "DataModel": "Standalone",
-                        "Category": "Actions",
-                        "ItemId": "ToggleComment"
+                        "ItemId": "ToggleComment",
+                        "Category": "Actions"
                     },
                     "Size": "Small"
+                }
+            ],
+            "Type": "Column"
+        },
+        {
+            "Children": [
+                {
+                    "Id": "1b6707fa-96b2-4f72-a243-e931064ec1bf",
+                    "Type": "IconButton",
+                    "Action": {
+                        "PluginId": "ScriptTools",
+                        "DataModel": "Standalone",
+                        "ItemId": "Insert/ModuleScript",
+                        "Category": "Actions"
+                    },
+                    "Size": "Large"
+                }
+            ],
+            "Type": "Column"
+        },
+        {
+            "Children": [
+                {
+                    "Id": "c90817a0-2818-4fc7-bc94-442e4722815c",
+                    "Type": "IconButton",
+                    "Action": {
+                        "PluginId": "ScriptTools",
+                        "DataModel": "Standalone",
+                        "Category": "Actions",
+                        "ItemId": "Insert/LocalScript"
+                    },
+                    "Size": "Large"
+                }
+            ],
+            "Type": "Column"
+        },
+        {
+            "Children": [
+                {
+                    "Id": "f7f54261-e42e-4b85-bf6b-e5ad12d5067d",
+                    "Type": "IconButton",
+                    "Action": {
+                        "PluginId": "ScriptTools",
+                        "DataModel": "Standalone",
+                        "ItemId": "Insert/Script",
+                        "Category": "Actions"
+                    },
+                    "Size": "Large"
                 }
             ],
             "Type": "Column"

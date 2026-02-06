@@ -1,0 +1,75 @@
+{
+    "Controls": [
+        {
+            "Id": "84e62a05-804b-4a07-b5d9-dd382affd29e",
+            "Type": "IconButton",
+            "Action": {
+                "PluginId": "AssistantPlugin",
+                "DataModel": "Standalone",
+                "Category": "Actions",
+                "ItemId": "Toggle"
+            }
+        },
+        {
+            "Id": "7f2513e4-ee78-4032-81c5-c9d6c9df7c97",
+            "Type": "IconButton",
+            "Action": {
+                "PluginId": "AssetManager",
+                "DataModel": "Standalone",
+                "Category": "Actions",
+                "ItemId": "Toggle"
+            }
+        },
+        {
+            "Id": "546ccf58-2cea-451c-bb3b-a2573a310292",
+            "Type": "IconButton",
+            "Action": {
+                "PluginId": "PlaceManagement",
+                "DataModel": "Standalone",
+                "Category": "Actions",
+                "ItemId": "DownloadAsCopy"
+            }
+        },
+        {
+            "Id": "ab742d08-d547-4ede-8dbb-a497934c1c4f",
+            "Type": "IconButton",
+            "Action": {
+                "PluginId": "ManageCollaborators",
+                "DataModel": "Standalone",
+                "ItemId": "Open",
+                "Category": "Actions"
+            }
+        },
+        {
+            "Id": "0554fdd6-438a-495b-bf36-b24e04bd897d",
+            "Type": "IconButton",
+            "Action": {
+                "PluginId": "PluginManagement",
+                "DataModel": "Standalone",
+                "Category": "Actions",
+                "ItemId": "ManageCloudPlugins"
+            }
+        },
+        {
+            "Id": "b2b9347a-3ddc-46ed-a622-d64fe08d0dd8",
+            "Type": "IconButton",
+            "Action": {
+                "PluginId": "Common",
+                "DataModel": "Standalone",
+                "Category": "Actions",
+                "ItemId": "ScreenShot"
+            }
+        },
+        {
+            "Id": "bf25a826-1f27-4c17-9f97-2f74c78cf8f6",
+            "Type": "IconButton",
+            "Action": {
+                "PluginId": "ShareGame",
+                "DataModel": "Standalone",
+                "ItemId": "Toggle",
+                "Category": "Actions"
+            }
+        }
+    ],
+    "Name": "Extra"
+}
